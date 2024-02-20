@@ -6,4 +6,15 @@
             <oneEvent action="2"/>
         </Event>
     </Object>
+    <Object type="2" objID="54955669" name="51ДД1">
+        <AccordingMap/>
+    </Object>
+    <Object type="2" objID="54995987" name="31ТСОТР">
+        <AccordingMap/>
+    </Object>
+    <Object type="2" objID="56165924" name="Кнопка">
+        <Event code="64">
+            <oneEvent action="2"/>
+        </Event>
+    </Object>
 </FormInfo>
