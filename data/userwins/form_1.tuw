@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TUW version="3.0" date="20.02.2024 15:36:59">
+<TUW version="3.0" date="05.03.2024 11:07:16">
     <object isMDI="0" type="6" name="form_1">
         <properties>
             <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="fff0f0f0"/>
             <property string="form_1" type="2" codeName="_Text_" name="заголовок" code="8"/>
             <property number="1088" type="0" codeName="_Notify_" name="события" code="11"/>
             <property number="1360" type="0" codeName="_Width_" name="ширина" code="23"/>
-            <property number="1005" type="0" codeName="_Height_" name="высота" code="24"/>
+            <property number="1010" type="0" codeName="_Height_" name="высота" code="24"/>
             <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
             <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
             <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
@@ -191,7 +191,7 @@
                     <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                     <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>
                     <property number="0" type="5" codeName="_State_" name="нажата" code="6"/>
-                    <property string="51ТДТВ" type="2" codeName="_Text_" name="текст" code="8"/>
+                    <property string="51ТД8" type="2" codeName="_Text_" name="текст" code="8"/>
                     <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
@@ -218,7 +218,7 @@
                     <property string="" type="2" codeName="_StatusBarText_" name="текст строки состояния" code="201"/>
                     <property string="" type="2" codeName="_ToolTipText_" name="всплывающая подсказка" code="202"/>
                     <property string="" type="2" codeName="_InText_" name="текст" code="203"/>
-                    <property string="51ТДТВ" type="2" codeName="_OutText_" name="текст" code="204"/>
+                    <property string="51ТД8" type="2" codeName="_OutText_" name="текст" code="204"/>
                     <property string="" type="2" codeName="_DimText_" name="текст" code="205"/>
                     <property number="1" type="4" codeName="_HorizontalPolicy_" name="размер по горизонтали" code="212"/>
                     <property number="0" type="4" codeName="_VerticalPolicy_" name="размер по вертикали" code="213"/>
