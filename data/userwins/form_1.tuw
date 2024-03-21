@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TUW version="3.0" date="05.03.2024 11:07:16">
+<TUW version="3.0" date="21.03.2024 13:25:51">
     <object isMDI="0" type="6" name="form_1">
         <properties>
             <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="fff0f0f0"/>
             <property string="form_1" type="2" codeName="_Text_" name="заголовок" code="8"/>
             <property number="1088" type="0" codeName="_Notify_" name="события" code="11"/>
             <property number="1360" type="0" codeName="_Width_" name="ширина" code="23"/>
-            <property number="1010" type="0" codeName="_Height_" name="высота" code="24"/>
+            <property number="1018" type="0" codeName="_Height_" name="высота" code="24"/>
             <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
             <property number="0" type="4" codeName="_LayoutType_" name="тип компоновщика" code="57"/>
             <property templateName="" type="3" codeName="_BlinkFillColor_" name="цвет мигания фона" code="102" colorRGBA="ff000000"/>
@@ -104,8 +104,8 @@
                 <property number="0" type="0" codeName="_Notify_" name="события" code="11"/>
                 <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                 <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                <property number="-11" type="0" codeName="_X1_" name="X" code="21"/>
-                <property number="0" type="0" codeName="_Y1_" name="Y" code="22"/>
+                <property number="-12" type="0" codeName="_X1_" name="X" code="21"/>
+                <property number="-1" type="0" codeName="_Y1_" name="Y" code="22"/>
                 <property number="1273" type="0" codeName="_Width_" name="ширина" code="23"/>
                 <property number="746" type="0" codeName="_Height_" name="высота" code="24"/>
                 <property number="1" type="5" codeName="_EditMoveble_" name="Edit Move" code="56"/>
@@ -1327,8 +1327,8 @@
                     <property number="65" type="0" codeName="_Notify_" name="события" code="11"/>
                     <property number="4" type="4" codeName="_TextHAlign_" name="выравнивание по горизонтали" code="14"/>
                     <property number="128" type="4" codeName="_TextVAlign_" name="выравнивание по вертикали" code="15"/>
-                    <property number="515" type="0" codeName="_X1_" name="X" code="21"/>
-                    <property number="690" type="0" codeName="_Y1_" name="Y" code="22"/>
+                    <property number="513" type="0" codeName="_X1_" name="X" code="21"/>
+                    <property number="688" type="0" codeName="_Y1_" name="Y" code="22"/>
                     <property number="90" type="0" codeName="_Width_" name="ширина" code="23"/>
                     <property number="22" type="0" codeName="_Height_" name="высота" code="24"/>
                     <property templateName="" type="3" codeName="_BlinkTextColor_" name="цвет мигания текста" code="39" colorRGBA="ff000000"/>
@@ -8947,7 +8947,7 @@
                 </properties>
                 <object isMDI="0" type="4" name="Поле_вывода">
                     <properties>
-                        <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="fff0f0f0"/>
+                        <property templateName="" type="3" codeName="_FillColor_" name="цвет фона" code="1" colorRGBA="ffffffff"/>
                         <property templateName="" type="3" codeName="_TextColor_" name="цвет текста" code="2" colorRGBA="ff000000"/>
                         <property number="0" type="5" codeName="_Dim_" name="недоступность" code="3"/>
                         <property number="0" type="5" codeName="_Hide_" name="невидимость" code="4"/>

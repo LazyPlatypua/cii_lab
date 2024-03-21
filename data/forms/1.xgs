@@ -1,2 +1,383 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GuiStates version="2.0"/>
+<GuiStates version="2.0">
+     <object type="2" objID="51863984" name="51ТДТВ">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТДТ8.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТДТ8.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТДТ8.НОРМА" knb_states="БЗ~СОТРсостояние.51ТДТ8.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="52255998" name="51ДП2">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДП2.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ДП2.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДП2.НОРМА" knb_states="БЗ~СОТРсостояние.51ДП2.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="53862509" name="15ТТФУЛ6">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ6.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ6.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ6.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ6.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54023645" name="51Т2ТП7">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т2ТП7.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51Т2ТП7.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т2ТП7.НОРМА" knb_states="БЗ~СОТРсостояние.51Т2ТП7.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54096952" name="51ТПЭН4">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТПЭН4.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТПЭН4.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТПЭН4.НОРМА" knb_states="БЗ~СОТРсостояние.51ТПЭН4.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54197760" name="15ТТФУЛ5">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ5.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ5.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ5.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ5.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54241357" name="15ТРПТ9">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ9.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ9.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ9.НОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ9.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54279340" name="51Т1ТП6">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т1ТП6.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51Т1ТП6.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т1ТП6.НОРМА" knb_states="БЗ~СОТРсостояние.51Т1ТП6.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54322511" name="15ТРПТ10">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ10.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ10.НЕНОРМА">
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ10.НОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ10.НОРМА">
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54409180" name="15ТТЭП4">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТЭП4.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТЭП4.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТЭП4.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТЭП4.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54543622" name="15ТТП7">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТП7.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТП7.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТП7.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТП7.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54648138" name="15ТТГС3">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТГС3.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТГС3.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТГС3.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТГС3.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54674175" name="15ТКГКП8">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТКБКП8.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТКБКП8.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТКБКП8.НОРМА" knb_states="БЗ~СОТРсостояние.15ТКБКП8.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54773876" name="51ТТГС5">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТТГС5.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТТГС5.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТТГС5.НОРМА" knb_states="БЗ~СОТРсостояние.51ТТГС5.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54855475" name="51ТСМ3">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТСМ3.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТСМ3.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТСМ3.НОРМА" knb_states="БЗ~СОТРсостояние.51ТСМ3.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54880876" name="51ТРТО2">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО2.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО2.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО2.НОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО2.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54911791" name="51ТРТО1">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО1.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО1.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО1.НОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО1.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54955669" name="51ДД1">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДД1.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ДД1.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДД1.НОРМА" knb_states="БЗ~СОТРсостояние.51ДД1.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="2" objID="54995987" name="31ТСОТР">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.31ТСОТР.НЕНОМА" knb_states="БЗ~СОТРсостояние.31ТСОТР.НЕНОМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.31ТСОТР.НОРМА" knb_states="БЗ~СОТРсостояние.31ТСОТР.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55421126" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДП2.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ДП2.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДП2.НОРМА" knb_states="БЗ~СОТРсостояние.51ДП2.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55767802" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ6.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ6.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ6.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ6.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55794567" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т2ТП7.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51Т2ТП7.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т2ТП7.НОРМА" knb_states="БЗ~СОТРсостояние.51Т2ТП7.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55809094" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ5.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ5.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТФУЛ5.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТФУЛ5.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55831673" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т1ТП6.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51Т1ТП6.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51Т1ТП6.НОРМА" knb_states="БЗ~СОТРсостояние.51Т1ТП6.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55844984" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ10.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ10.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ10.НОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ10.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55862981" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ9.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ9.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТРПТ9.НОРМА" knb_states="БЗ~СОТРсостояние.15ТРПТ9.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55883741" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТЭП4.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТЭП4.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТЭП4.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТЭП4.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55897695" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТП7.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТП7.НЕНОРМА">
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТП7.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТП7.НОРМА">
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55915764" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТГС3.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТТГС3.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТТГС3.НОРМА" knb_states="БЗ~СОТРсостояние.15ТТГС3.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55929844" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТКБКП8.НЕНОРМА" knb_states="БЗ~СОТРсостояние.15ТКБКП8.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.15ТКБКП8.НОРМА" knb_states="БЗ~СОТРсостояние.15ТКБКП8.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55945627" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТСМ3.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТСМ3.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТСМ3.НОРМА" knb_states="БЗ~СОТРсостояние.51ТСМ3.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="55964066" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО2.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО2.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО2.НОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО2.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56000360" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО1.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО1.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТРТО1.НОРМА" knb_states="БЗ~СОТРсостояние.51ТРТО1.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56048071" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.31ТСОТР.НЕНОМА" knb_states="БЗ~СОТРсостояние.31ТСОТР.НЕНОМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.31ТСОТР.НОРМА" knb_states="БЗ~СОТРсостояние.31ТСОТР.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56103579" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТДТ8.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТДТ8.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТДТ8.НОРМА" knb_states="БЗ~СОТРсостояние.51ТДТ8.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56119255" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДД1.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ДД1.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ДД1.НОРМА" knb_states="БЗ~СОТРсостояние.51ДД1.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56134199" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТТГС5.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТТГС5.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТТГС5.НОРМА" knb_states="БЗ~СОТРсостояние.51ТТГС5.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+     <object type="4" objID="56141547" name="Поле_вывода">
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТПЭН4.НЕНОРМА" knb_states="БЗ~СОТРсостояние.51ТПЭН4.НЕНОРМА">
+               <property templateName="" type_att="3" value="4288716964" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4294901760" code="2" isParVar="no"/>
+          </state>
+          <state fAllVal="0" name="БЗ~СОТРсостояние.51ТПЭН4.НОРМА" knb_states="БЗ~СОТРсостояние.51ТПЭН4.НОРМА">
+               <property templateName="" type_att="3" value="4294967295" code="1" isParVar="no"/>
+               <property templateName="" type_att="3" value="4278222848" code="2" isParVar="no"/>
+          </state>
+     </object>
+</GuiStates>

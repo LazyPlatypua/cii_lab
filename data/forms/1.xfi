@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<FormInfo version="3.0" X="0" Y="0" isComposable="0" template="form_1" name="form_1">
+<FormInfo version="3.0" X="1" Y="0" isComposable="0" template="form_1" name="form_1">
     <AccordingMap/>
     <Object type="6" objID="0" name="form_1">
         <Event code="1024">
